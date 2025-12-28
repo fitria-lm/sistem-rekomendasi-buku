@@ -1,4 +1,4 @@
-# p01-sistem-rekomendasi-buku
+# sistem-rekomendasi-buku
 Sistem Rekomendasi Buku Perpustakaan: berdasarkan genre buku.
 
 Sebuah perpustakaan ingin meningkatkan kepuasan pengunjung dengan memberikan
